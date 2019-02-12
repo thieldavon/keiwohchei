@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aiyeizu.endustrial.com/sitemap.xml
